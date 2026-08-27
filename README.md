@@ -54,8 +54,9 @@ NEXTBITE/
 ├── script.js
 └── nextbite.png
 
-📩 Contact
-
+```
+## 📩 Contact
+```text
 Interested in working with NEXTBITE?
 
 Contact us to discuss your business requirements
