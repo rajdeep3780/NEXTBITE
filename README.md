@@ -53,3 +53,12 @@ NEXTBITE/
 ├── style.css
 ├── script.js
 └── nextbite.png
+
+📩 Contact
+
+Interested in working with NEXTBITE?
+
+Contact us to discuss your business requirements
+and project ideas.
+
+© 2026 NEXTBITE Technologies. All rights reserved.
